@@ -1,0 +1,11 @@
+$full-width : 100%;
+
+.my-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: $full-width;
+}
+
+.full-width {
+  width: $full-width;
+}

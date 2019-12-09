@@ -1,0 +1,21 @@
+$common-color: #000000;
+$common-font-size: 14px;
+$common-font-family: Roboto,
+"Helvetica Neue",
+sans-serif;
+$margin-all-0: 0px;
+
+html,
+body {
+  height: 100%;
+  font-family: $common-font-family;
+}
+
+body {
+  margin: $margin-all-0;
+  font-size: $common-font-size;
+}
+
+.margin-all-0 {
+  margin: $margin-all-0;
+}
